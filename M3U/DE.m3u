@@ -1,0 +1,308 @@
+#EXTM3U
+#EXTINF:-1,►►► German ◄◄◄
+
+#EXTINF:-1,N24
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="zdf.png",ZDF
+http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8
+
+#EXTINF:-1,tvg-id="ZDFinfo.de" tvg-logo="zdfinfo.png",ZDF INFO
+http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8
+
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="zdfneo.png",ZDF NEO
+http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8
+
+#EXTINF:-1,tvg-id="ZDFtheater.de" tvg-logo="zdfkultur.png",ZDF KULTUR
+http://zdf1112-lh.akamaihd.net/i/de11_v1@392881/master.m3u8
+
+#EXTINF:-1,tvg-id="phoenix.de" tvg-logo="phoenix.png",PHOENIX
+http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8?dw=0
+
+#EXTINF:-1,tvg-id="daserste.de" tvg-logo="609281.png",Das Erste[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=71565725
+
+
+#EXTINF:-1,tvg-id="ARTE.de" tvg-logo="arte.png",ARTE
+http://delive.artestras.cshls.lldns.net/artestras/contrib/delive.m3u8
+
+#EXTINF:-1,tvg-id="3sat.de" tvg-logo="3sat.png",3SAT
+http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
+
+#EXTINF:-1,Welt der Wunder TV
+http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/chunklist.m3u8?wowzasessionid=1817564159
+
+#EXTINF:-1,tvg-id="kika.de" tvg-logo="302192.png",KiKA HD
+http://api.iptv.ink/pl.m3u8?ch=14807581
+
+#EXTINF:-1, tvg-id="ric.de" tvg-logo="548620.png",RIC
+http://api.iptv.ink/pl.m3u8?ch=58895342
+
+#EXTINF:-1,tvg-id="alpha.de" tvg-logo="535798.png",ARD Alpha HD
+http://api.iptv.ink/pl.m3u8?ch=36929284
+
+#EXTINF:-1,SERVUS TV
+http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8
+
+#EXTINF:-1 group-title=”EUROPE”,QVC 
+http://ios-stream.qvc.de/qvc.m3u8
+
+#EXTINF:-1,►►► CH-AU-SP ◄◄◄
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/tvchannel/at/ORF-Eins-HD.html",ORF eins HD
+http://185.85.28.20/orf1/q8c.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/tvchannel/at/ORF-2-HD.html",ORF 2 HD
+http://185.85.28.20/orf2/q8c.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/tvchannel/at/ORF-III-HD.html",ORF 3 HD
+http://185.85.28.20/orf3/q8c.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/tvchannel/at/ORF-Sport-Plus-HD.html",ORF Sport+ HD
+http://185.85.28.20/orfs/q8c.sdp/chunklist.m3u8
+
+#EXTINF:-1,RTV AU
+mms://wmsstream22.v4.mytv.ris.at/live/stream_151
+
+#EXTINF:-1,AUSTRIA 24 TV rtmp
+rtmp://streaming.austria24.tv/live/stream_360p
+
+#EXTINF:0,M6TV
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+
+#EXTINF:0,Tele Basel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/freeiptvlinks.m3u8
+
+#EXTINF:0,TELEBARN
+http://rtmp.infomaniak.ch/livecast/barntele/freeiptvlinks.m3u8
+
+#EXTINF:0,barntele
+http://rtmp.infomaniak.ch/livecast/barntele/freeiptvlinks.m3u8
+
+#EXTINF:0,deltatv
+http://rtmp.infomaniak.ch/livecast/deltatv/freeiptvlinks.m3u8
+
+#EXTINF:0,telebielinguech
+http://rtmp.infomaniak.ch/livecast/telebielinguech/freeiptvlinks.m3u8
+
+#EXTINF:0,tvo
+http://rtmp.infomaniak.ch/livecast/tvo/freeiptvlinks.m3u8
+
+#EXTINF:-1,Telebarn
+http://rtmp.infomaniak.ch/livecast/barntele/media_w2076947800_2120.m3u8
+
+#EXTINF:-1,tvg-id="alexberlin.de" tvg-logo="00000000.png",TVE 1
+http://api.iptv.ink/pl.m3u8?ch=35452405
+
+#EXTINF:-1,tvg-id="alexberlin.de" tvg-logo="00000000.png",TVE 2
+http://api.iptv.ink/pl.m3u8?ch=91170153
+
+#EXTINF:-1,tvg-id="alexberlin.de" tvg-logo="00000000.png",TVE 24
+http://api.iptv.ink/pl.m3u8?ch=92978413
+
+#EXTINF:-1,tvg-id="alexberlin.de" tvg-logo="00000000.png",TV Galicia
+http://api.iptv.ink/pl.m3u8?ch=18178909
+
+#EXTINF:-1,tvg-id="alexberlin.de" tvg-logo="00000000.png",LA SEXTA HD
+http://api.iptv.ink/pl.m3u8?ch=88365689
+
+#EXTINF:-1,tvg-id="alexberlin.de" tvg-logo="00000000.png",ANTENA 3 HD
+http://api.iptv.ink/pl.m3u8?ch=62326989
+
+#EXTINF:-1,tvg-id="alexberlin.de" tvg-logo="00000000.png",Russia Today HD
+http://api.iptv.ink/pl.m3u8?ch=84555053
+
+
+#EXTINF:-1,►►► News - Sport ◄◄◄
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+
+#EXTINF:-1,N24
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live.m3u8
+
+#EXTINF:-1,Welt der Wunder TV
+http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/chunklist.m3u8?wowzasessionid=1817564159
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="3sat.png",3SAT
+http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
+
+#EXTINF:-1 tvg-id="daf.de" tvg-logo="133390.png",DAF
+http://api.iptv.ink/pl.m3u8?ch=38226521
+
+#EXTINF:-1,Sport1
+http://54.247.34.239/streams/erde/playlist1.m3u8
+
+#EXTINF:-1,SPORT TIME TV
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+
+
+#EXTINF:-1,►►► Music ◄◄◄
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/05/prog_index.m3u8
+
+#EXTINF:-1,HOT MUSIC
+http://wow01.105.net/live/rmc1/playlist.m3u8
+
+#EXTINF:-1,Eska Best Music
+rtmp://stream.smcloud.net/live2/best/best_720p
+
+#EXTINF:-1,Eska Party
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p
+
+#EXTINF:-1,Eska Rock
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+
+#EXTINF:-1,Virgin TV
+http://wow01.105.net/live/virgin1/playlist.m3u8
+
+#EXTINF:-1,TIGO MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+
+#EXTINF:-1,Hit TV?
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live?
+
+#EXTINF:-1,MTV
+rtmp://83.218.202.202/live playpath=wt_mtv.stream swfUrl=http://webtv.md/swf/WebTV.swf?red5Server=rtmp://83.218.202.202/live&stream=wt_mtv.stream live=1
+
+#EXTINF:-1,MTV HD
+rtmp://194.116.73.52/quartaretetv1/formusicweb
+
+#EXTINF:-1,VEVO Deutschland 960×540
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/05/prog_index.m3u8
+
+#EXTINF:-1,VEVO TV 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+
+#EXTINF:-1,VEVO TV 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
+
+#EXTINF:-1,VEVO TV 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
+
+#EXTINF:-1,VEVO TV DE
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/appleman.m3u8
+
+#EXTINF:-1,JOIZ DE
+http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_1164_av-p.m3u8
+
+#EXTINF:-1,tvg-id="deluxe.de" tvg-logo="283252.png",Deluxe Music
+http://api.iptv.ink/pl.m3u8?ch=90862507
+
+#EXTINF:-1,tvg-id="alexberlin.de" tvg-logo="00000000.png",XITE.TV
+http://api.iptv.ink/pl.m3u8?ch=69882953
+
+#EXTINF:-1,►►► Regional ◄◄◄
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/index_3776_av-p.m3u8
+
+#EXTINF:-1,NDR Hamburg HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/index_3776_av-p.m3u8
+
+#EXTINF:-1,NDR Meck.-Vorp.
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/index_1992_av-p.m3u8
+
+#EXTINF:-1,NDR Meck.-Vorp. HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/index_3776_av-p.m3u8
+
+#EXTINF:-1,NDR Schleswig-Hol.
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_1992_av-p.m3u8
+
+#EXTINF:-1,NDR Schleswig-Hol. HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_3776_av-p.m3u8
+
+#EXTINF:-1,WDR
+http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
+
+#EXTINF:-1,SWR
+http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
+
+#EXTINF:-1,DAS NEUE TV rtmp
+rtmp://83.169.58.36/live/DasneueTV
+
+#EXTINF:-1,Deutsche Welle (U.S.A)
+http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
+
+#EXTINF:-1,Deutsches Anlegerfernsehen
+http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8
+
+#EXTINF:-1,OK Dessau
+rtmp://62.113.210.250/medienasa-live/ok-dessau_high
+
+#EXTINF:-1,OK MAGDEBURG
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/BratuMarian.m3u8?bitrate=800
+
+#EXTINF:-1,OK SALZWEDEL
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/BratuMarian.m3u8?bitrate=800
+
+#EXTINF:-1,OK Wernigerode
+rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
+
+#EXTINF:-1,Ran 1
+rtmp://62.113.210.250/medienasa-live/mp4:ran1_high
+
+#EXTINF:-1,RBW
+rtmp://62.113.210.250/medienasa-live/rbw_high
+
+#EXTINF:-1,ALEX-BERLIN 568*320
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/BratuMarian.m3u8?bitrate=800
+
+#EXTINF:-1,ANIXE
+http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
+
+#EXTINF:-1,Augsburg TV rtmp
+rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1
+
+#EXTINF:-1,BLK Regional TV Burgenlandkreis rtmp
+rtmp://62.113.210.250/medienasa-live//BLKonline_high
+
+#EXTINF:-1,DAF m3u8 1024*578
+http://BratuMarianiptv.com/iptv/de/0098.m3u8
+
+#EXTINF:-1,DAF rtmp
+rtmp://fms.daf.tmt.de/live/dafstream100
+
+#EXTINF:-1,Donau TV rtmp
+rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2 swfUrl=http://flowcenter2.flowworks.de/channelmanager/templates/default/template/jwplayer/jwplayer.flash.swf pageUrl=http://archiv.donautv.com/wdata/embed/donau-tv-livestream.html?autoplay=0
+
+#EXTINF:-1,Dresden Fernsehen rtmp
+rtmp://video07.kanal8.de/dresdenfernsehenlive/myStream.sdp
+
+#EXTINF:-1,ELBEKANAL rtmp
+rtmp://62.113.210.250/medienasa-live/elbe_high
+
+#EXTINF:-1,Family TV rtmp
+rtmp://83.169.58.36/live/Stream3
+
+#EXTINF:-1,FILSTALWELLE rtmp
+rtmp://62.113.210.27/filstalwelle-live/livestream
+
+#EXTINF:-1,Halle m3u8 720*576
+http://62.113.210.250/medienasa-live/tvhalle_high/BratuMarian.m3u8
+
+#EXTINF:-1,HALLE TV rtmp
+rtmp://62.113.210.250/medienasa-live/tvhalle_high
+
+#EXTINF:-1,HT1 mms
+mms://wmsstream22.v4.mytv.ris.at/live/stream_149
+
+#EXTINF:-1,KIEL TV rtmp
+rtmp://stream.oksh.de/live/okkiel/kieltv
+
+#EXTINF:-1,Light Channel TV Deutschland
+rtmp://streamer1.streamhost.org/salive//lctvde
+
+#EXTINF:-1,LL mms
+mms://wmsstream22.v4.mytv.ris.at/live/stream_156
+
+#EXTINF:-1,LT – TV Baden Wuerttemberg
+rtmp://62.113.210.105/ltv-live/livestream
+
+#EXTINF:-1,MUNCHEN TV
+rtmp://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1
+
+#EXTINF:-1,SONNENKLAR
+rtmp://euvia500livefs.fplive.net/euvia500live-live/stream60324
+
+#EXTINF:-1,SWR
+http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
+
