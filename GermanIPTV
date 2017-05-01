@@ -1,322 +1,48 @@
-
 #EXTM3U
-#EXTINF:-1,Kronehit TV
-http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
-#EXTINF:-1,Okto TV
-http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/zenoiptv.m3u8
-#EXTINF:-1,SERVUS TV AT
-http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8?sd=10&regloriae=on
-#EXTINF:-1,3sat
-http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
-#EXTINF:-1,arte
-http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
-#EXTINF:-1,ARD-Alpha
-http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
-#EXTINF:-1,Das Erste
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
-#EXTINF:-1,Deutsche Welle
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
-#EXTINF:-1,One HD
-http://wdr_einsfestival-lh.akamaihd.net/i/wdr_einsfestival@328300/master.m3u8
+
+#EXTINF:-1 tvg-id="n24" tvg-logo="n24.png" group-title="DE",N24
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-logo="ntv.png" group-title="DE",n-tv
+http://p.live.akamai.n-tv.de/playlists/ntvlive-ipadakamai.m3u8
+#EXTINF:-1,SERVUS TV HD
+http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8
 #EXTINF:-1,Phoenix
 http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8
+#EXTINF:-1,Euronews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+#EXTINF:-1,One HD
+http://wdr_einsfestival-lh.akamaihd.net/i/wdr_einsfestival@328300/master.m3u8
+#EXTINF:-1,RTL II You HD
+http://rtl2ingest1-i.akamaihd.net/hls/live/225448/cbcyoumain/cbcyoumainstream1_.m3u8
+#EXTINF:-1,Disney Channel
+https://delivestream-lh.akamaihd.net/i/live_1@320996/master.m3u8
 #EXTINF:-1,ZDF HD
 http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8
 #EXTINF:-1,ZDF info
 http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8
 #EXTINF:-1,ZDF neo
 http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8
-#EXTINF:-1,Tagesschau 24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1,BR HD Nord
-http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
-#EXTINF:-1,BR HD Sued
-http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1,Das Erste
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:-1,3sat
+http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
 #EXTINF:-1,KiKa
 http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8
-#EXTINF:-1,MDR Sachsen
-http://mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/master.m3u8
-#EXTINF:-1,MDR Sachsen-Anhalt
-http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8
-#EXTINF:-1,MDR Thüringen
-http://mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/master.m3u8
-#EXTINF:-1,NDR Hamburg
-http://ndrfs.ndr.de/i/ndrfs_hh@119223/index_3776_av-p.m3u8
-#EXTINF:-1,NDR Mecklenburg-Vorpommern
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/master.m3u8
-#EXTINF:-1,NDR Niedersachsen
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
-#EXTINF:-1,NDR Schleswig-Holstein
-http://ndrfs.ndr.de/i/ndrfs_sh@119225/master.m3u8
-#EXTINF:-1,RBB Berlin
-http://rbb_live-lh.akamaihd.net/i/rbb_berlin@108248/master.m3u8
-#EXTINF:-1,RBB Brandenburg
-http://rbb_live-lh.akamaihd.net/i/rbb_brandenburg@107638/master.m3u8
-#EXTINF:-1,SR HD
-http://livestream.sr-online.de/live.m3u8
-#EXTINF:-1,SWR HD Baden-Wuerttemberg
-http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
-#EXTINF:-1,SWR HD Rheinland-Pfalz
-http://swrrp-lh.akamaihd.net/i/swrrp_live@196739/master.m3u8
-#EXTINF:-1,WDR HD
-http://metafilegenerator.de/WDR/WDR_FS/m3u8/wdrfernsehen.m3u8
-#EXTINF:-1,N24
-https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
-#EXTINF:-1,sky Sport News HD
-http://event_rtmp-lh.akamaihd.net/i/ssnhd_1@433299/master.m3u8
-#EXTINF:-1,DAF
-http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8
-#EXTINF:-1,Tele Züri HD
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_hoislpiz/t/Bnhb6PI9GIjiKE7UgQC_qg/index-s32.m3u8
-#EXTINF:-1,Euronews
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
-#EXTINF:-1,SERVUS TV HD Österreich
-http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8
-#EXTINF:-1,L TV (Baden Württemberg)
-rtmp://62.113.221.4/tv2000plus2-live/livestream3.stream
-#EXTINF:-1,MDF 1
-http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:-1,OK Trier
-http://stream-cdn.ok54.de/hls/ok54.m3u8
-#EXTINF:-1,RIC
-http://83.169.58.38/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/playlist.m3u8
-#EXTINF:-1,Südtirol Digital Fernsehen
-http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8
-#EXTINF:-1,Sylt 1 
-http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
-#EXTINF:-1,TV Berlin
-http://stream.der-hauptstadt-sender.de/hls/Themeh4g.m3u8
-#EXTINF:-1,Welt der Wunder
-http://live.vidoo.de/live/weltderwunder/master.m3u8
-#EXTINF:-1,SWR 3 (visual Radio)
-http://swr3visual-lh.akamaihd.net/i/swr3visual_live@6410/index_3584_av-p.m3u8
-#EXTINF:-1,Allgäu TV
-http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
-#EXTINF:-1,Bayern Müchen TV
-https://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/index-s40.m3u8
-#EXTINF:-1,Go TV 
-http://nstream17.gotv.at:1936/live/gotvlive_576p/playlist.m3u8
-#EXTINF:-1 tvg-id="daserste" tvg-logo="daserste.png" group-title="DE",Das Erste
-http://live-lh.daserste.de/i/daserste_de@91204/master.m3u8
-#EXTINF:-1 tvg-id="zdf" tvg-logo="zdf.png" group-title="DE",ZDF
-https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8?dw=0
-#EXTINF:-1 tvg-id="arte" tvg-logo="arte.png" group-title="DE",arte
-https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
-#EXTINF:-1 tvg-id="phoenix" tvg-logo="phoenix.png" group-title="DE",Phoenix
-https://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8
-#EXTINF:-1 tvg-id="3sat" tvg-logo="3sat.png" group-title="DE",3sat
-https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
-#EXTINF:-1 tvg-id="ardalpha" tvg-logo="ardalpha.png" group-title="DE",ARD Alpha
-http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
-#EXTINF:-1 tvg-id="dw" tvg-logo="dw.png" group-title="DE",Deutsche Welle
-https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
-#EXTINF:-1 tvg-id="tagesschau24" tvg-logo="tagesschau24.png" group-title="DE",tagesschau24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1 tvg-id="one" tvg-logo="one.png" group-title="DE",one
-http://wdr_einsfestival-lh.akamaihd.net/i/wdr_einsfestival@328300/master.m3u8
-#EXTINF:-1 tvg-id="zdfinfo" tvg-logo="zdfinfo.png" group-title="DE",ZDFinfo
-https://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8?dw=0
-#EXTINF:-1 tvg-id="zdfneo" tvg-logo="zdfneo.png" group-title="DE",zdf_neo
-https://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8?dw=0
-#EXTINF:-1 tvg-id="swr" tvg-logo="swr.png" group-title="DE",SWR
-http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
-#EXTINF:-1 tvg-id="br" tvg-logo="br.png" group-title="DE",BR
-http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
-#EXTINF:-1 tvg-id="hr" tvg-logo="hr.png" group-title="DE",HR
-http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-id="wdr" tvg-logo="wdr.png" group-title="DE",WDR
-http://tvstreamgeo.wdr.de/i/wdrfs_geogeblockt@112044/master.m3u8
-#EXTINF:-1 tvg-id="mdr" tvg-logo="mdr.png" group-title="DE",MDR
-http://livetvsachsen.mdr.de/i/livetvmdrsachsen_de@106902/master.m3u8
-#EXTINF:-1 tvg-id="ndr" tvg-logo="ndr.png" group-title="DE",NDR
-http://ndrfs.ndr.de/i/ndrfs_hh@119223/master.m3u8
-#EXTINF:-1 tvg-id="rbb" tvg-logo="rbb.png" group-title="DE",RBB
-http://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
-#EXTINF:-1 tvg-id="kika" tvg-logo="kika.png" group-title="DE",KiKA
-https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8
-#EXTINF:-1 tvg-id="rtl2you" tvg-logo="rtl2you.png" group-title="DE",RTL II You
-http://rtl2ingest1-i.akamaihd.net/hls/live/225448/cbcyoumain/cbcyoumainstream4_.m3u8
-#EXTINF:-1 tvg-id="skysportnewshd" tvg-logo="skysportnewshd.png" group-title="DE",Sky Sport News HD
-http://event_rtmp-lh.akamaihd.net/i/ssnhd_1@433299/master.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-logo="ntv.png" group-title="DE",n-tv
-http://p.live.akamai.n-tv.de/playlists/ntvlive-ipadakamai.m3u8
-#EXTINF:-1 tvg-id="n24" tvg-logo="n24.png" group-title="DE",N24
-https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
-#EXTINF:-1 tvg-id="servustv" tvg-logo="servustv.png" group-title="DE",ServusTV
-http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
-#EXTINF:-1 tvg-id="deluxemusic" tvg-logo="deluxemusic.png" group-title="DE",Deluxe Music
-https://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="orf1" tvg-logo="orf1.png" group-title="AT",ORF eins
-http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="orf2" tvg-logo="orf2.png" group-title="AT",ORF 2
-http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="orf3" tvg-logo="orf3.png" group-title="AT",ORF III
-http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8
 #EXTINF:-1,arte
 http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
-#EXTINF:-1,ONE HD
-http://wdr_einsfestival-lh.akamaihd.net/i/wdr_einsfestival@328300/master.m3u8
-#EXTINF:-1,N24
-http://bsn246u6-i.akamaihd.net/hls/live/237201/Live2N24CMS/index.m3u8
-#EXTINF:-1,n-tv
-http://p.live.akamai.n-tv.de/playlists/ntvlive-ipadakamai.m3u8
-#EXTINF:-1,SERVUS TV HD Deutschland
-http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
-#EXTINF:-1,sky Sport News HD
-http://event_rtmp-lh.akamaihd.net/i/ssnhd_1@433299/master.m3u8
-#EXTINF:-1,Blizz
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5726-mbr.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,bw.family tv
-http://live.bwfamily.tv/rtplive/iphone.sdp/playlist.m3u8
-#EXTINF:-1,DAF
-http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8
-#EXTINF:-1,RTL II You HD
-http://rtl2ingest1-i.akamaihd.net/hls/live/225448/cbcyoumain/cbcyoumainstream1_.m3u8
-#EXTINF:-1,RTL Luxemburg
-http://live01.rtl.lu/channel1/smil:channel1/master.m3u8
-#EXTINF:-1,Potsdam TV
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8
-#EXTINF:-1,TecTime
-http://tectime.iptv-playoutcenter.de:1935/tectime/tectime.stream_hbb/playlist.m3u8
-#EXTINF:-1,Welt der Wunder
-http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/chunklist.m3u8
-#EXTINF:-1,DELUXE MUSIC
-http://flash3.ipercast.net/deluxemusic.tv-live/smil:deluxe.smil/playlist.m3u8
+#EXTINF:-1,ARD-Alpha
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1,Deutsche Welle
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+#EXTINF:-1 group-title=”EUROPE”,QVC 
+http://ios-stream.qvc.de/qvc.m3u
 #EXTINF:-1,NRJ TV
 http://livevideo.infomaniak.com/streaming/livecast/energytv/playlist.m3u8
-#EXTINF:-1,TVM 3
-http://rtmp.infomaniak.ch/livecast/tvm3/master.m3u8
-#EXTINF:-1,Baden TV
-rtmp://badentv-stream2.siebnich.info/rtplive/vlc.sdp
-#EXTINF:-1,BLKonline TV Burgenlandkreis
-http://62.113.210.250/medienasa-live/BLKonline_high/master.m3u8
-#EXTINF:-1,ElbeKanal
-http://62.113.210.250/medienasa-live/elbe_high/master.m3u8
-#EXTINF:-1,Franken TV
-http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/chunklist_w2002775230.m3u8
-#EXTINF:-1,noa4 Hamburg FHD
-http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1,noa4 Norderstedt FHD
-http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1,NRW TV
-http://streaming006.broadcast.tneg.de:1935/nrwtv-new/_definst_/smil:nrw.smil/playlist.m3u8
-#EXTINF:-1,OK Dessau
-http://62.113.210.250/medienasa-live/ok-dessau_high/master.m3u8
-#EXTINF:-1,OK Magdeburg
-http://62.113.210.250/medienasa-live/ok-magdeburg_high/master.m3u8
-#EXTINF:-1,OK Merseburg
-http://62.113.210.250/medienasa-live/ok-merseburg_high/master.m3u8
-#EXTINF:-1,OK Salzwedel
-http://62.113.210.250/medienasa-live/ok-salzwedel_high/master.m3u8
-#EXTINF:-1,OK Stendal
-http://62.113.210.250/medienasa-live/ok-stendal_high/master.m3u8
-#EXTINF:-1,OK Wernigerode
-http://62.113.210.250/medienasa-live/ok-wernigerode_high/master.m3u8
-#EXTINF:-1,OK Wettin
-http://62.113.210.250/medienasa-live/ok-wettin_high/master.m3u8
-#EXTINF:-1,Potsdam TV
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8
-#EXTINF:-1,Punktum S¸dharz 
-http://62.113.210.250/medienasa-live/punktum_high/master.m3u8
-#EXTINF:-1,RAN 1
-http://62.113.210.250/medienasa-live/mp4:ran1_high/master.m3u8
-#EXTINF:-1,RBW
-http://62.113.210.250/medienasa-live/rbw_high/master.m3u8
-#EXTINF:-1,RFH
-http://62.113.210.250/medienasa-live/RFH_high/master.m3u8
-#EXTINF:-1,TV Oberfranken
-http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken
-#EXTINF:-1,TV W¸rzburg
-http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/chunklist_w893326909.m3u8
-#EXTINF:-1,Austria 24 TV
-http://5.9.11.81/live/stream_720p/master.m3u8
-#EXTINF:-1,Dorf tv
-http://dorf.openplayout.org/hls/dorf_high/index.m3u8
-#EXTINF:-1, FS1 
-rtmp://stream.fs1.tv/stream/webstream
-#EXTINF:-1,L‰ndle TV
-http://80.237.191.228:1935/live/LaendleTV/chunklist_w195710326.m3u8
-#EXTINF:-1,M¸hlviertel TV
-mms://wmsstream22.v4.mytv.ris.at/live/stream_149
-#EXTINF:-1,OKTO 
-http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/chunklist.m3u8
-#EXTINF:-1,P3 tv
-rtmp://p3-6.mov.at:1935/live/weekstream
-#EXTINF:-1,RE eins TV
-http://www.reeins.tv:1935/live/re1/playlist.m3u8
-#EXTINF:-1,RTS TV Salzburg
-http://80.237.191.228:1935/live/_definst_/RTS2015/chunklist_w131552783.m3u8
-#EXTINF:-1,Tirol TV
-http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w1178744335.m3u8
-#EXTINF:-1,W 24
-rtmp://ms01.w24.at:1935/livepkgr/livestream2
-#EXTINF:-1,Kanal 9 HD
-http://rtmp.infomaniak.ch/livecast/livesd2/chunklist_w798831857.m3u8
-#EXTINF:-1,Tele B‰rn
-http://rtmp.infomaniak.ch/livecast/barntele/master.m3u8
-#EXTINF:-1,Tele Basel
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
-#EXTINF:-1,Tele M1
-http://klive-a.akamaihd.net/DC-1/live/hls/p/1719221/e/1_ljzy3evp/t/B54nBEmdVx_dAZzHo5Rn_g/index-s32.m3u8
-#EXTINF:-1,TVO
-http://rtmp.infomaniak.ch/livecast/tvo/chunklist_w1834948505.m3u8
-#EXTINF:-1,Tele Z¸ri HD
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish3/kLive/smil:1_hoislpiz_all.smil/32/chunklist.m3u8
-#EXTINF:-1,TV Berlin
-http://stream.der-hauptstadt-sender.de:80/hls/Themeh4g.m3u8
-#EXTINF:-1,Donau TV 
-http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8
-#EXTINF:-1,eRtv
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5679_nYMRJQdgpK3WDGr/playlist.m3u8
-#EXTINF:-1,DRF 1
-http://62.67.13.54:1935/drf1/drf1_livestream_3/playlist.m3u8
-#EXTINF:-1,Filstalwelle
-http://62.113.210.27/filstalwelle-live/livestream/master.m3u8
-#EXTINF:-1,Friesischer Rundfunk
-http://62.113.221.100/friesischerRundfunk-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1,Hamburg 1
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5655_F7KT9xCQkXwbNmq/playlist.m3u8
-#EXTINF:-1,Isar TV
-http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/media_w1753151486_master.m3u8
-#EXTINF:-1,KabelJournal
-http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8
-#EXTINF:-1,Nahe TV
-rtmp://stream-cdn.ok54.de/tv/nahetv
-#EXTINF:-1,oe24 TV
-http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
-#EXTINF:-1,OK Koblenz
-http://stream-cdn.ok54.de/hls/ok4.m3u8
-#EXTINF:-1,OK Weinstraﬂe
-rtmp://stream-cdn.ok54.de/tv/okweinstrasse
-#EXTINF:-1,Oldenburg eins TV
-http://188.40.16.94:1935/live/studio/chunklist_w27232713.m3u8
-#EXTINF:-1,RheinMain TV
-http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
-#EXTINF:-1,Sylt 1 
-rtmp://62.67.13.53/sylt1/sylt1_high.stream
-#EXTINF:-1,Tele Regional Passau 1
-http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/master.m3u8
-#EXTINF:-1,Center TV
-http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3045-mbr.smil/playlist.m3u8
-#EXTINF:-1,Chemnitz Fernsehen
-http://regio-tv-stream.de:1935/chemnitzfernsehenlive/livestream.sdp/playlist.m3u8
-#EXTINF:-1,Dresden Fernsehen
-http://regio-tv-stream.de:1935/dresdenfernsehenlive/livestream.sdp/playlist.m3u8
-#EXTINF:-1,Leipzig Fernsehen
-http://regio-tv-stream.de:1935/leipzigfernsehenlive/livestream.sdp/playlist.m3u8
-#EXTINF:-1,TV Oberpfalz
-http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/chunklist_w535800930.m3u8
-#EXTINF:-1,OK Ludwigshafen
-rtmp://vstream.twl-kom.de:1935/live/demo.stream_720p
-#EXTINF:-1,Rhein Neckar Fernsehen
-http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/chunklist_w657988848.m3u8
-#EXTINF:-1,Tide TV
-http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/chunklist_w1838803172.m3u8
-#EXTINF:-1,TRP 1
-rtmp://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1
-#EXTINF:-1,Westerwald TV
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/chunklist_b2000000.m3u8
-#EXTINF:-1,WMZ TV
-rtmp://62.67.13.53:1935/wmzsenftenberg/live.stream
-#EXTINF:-1, Disney Channel
-https://delivestream-lh.akamaihd.net/i/live_1@320996/master.m3u8
+#EXTINF:-1,Kronehit TV
+http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
+#EXTINF:-1 tvg-id="deluxemusic" tvg-logo="deluxemusic.png" group-title="DE",Deluxe Music
+https://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
+#EXTINF:-1,HOT MUSIC
+http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:-1,Virgin TV
+http://wow01.105.net/live/virgin1/playlist.m3u8
