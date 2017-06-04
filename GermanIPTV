@@ -4,7 +4,7 @@
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="ntv.png" group-title="DE",n-tv
 http://p.live.akamai.n-tv.de/playlists/ntvlive-ipadakamai.m3u8
-#EXTINF:-1,SERVUS TV HD Deutschland
+#EXTINF:-1,SERVUS TV
 http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
 #EXTINF:-1,Phoenix
 http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8
