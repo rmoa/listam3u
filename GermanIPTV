@@ -48,7 +48,7 @@ http://wow01.105.net/live/rmc1/playlist.m3u8
 http://wow01.105.net/live/virgin1/playlist.m3u8
 #EXTINF:-1, RTP1
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png" group-title="PORTUGAL", RTP2 [/COLOR] TDT
+#EXTINF:-1, RTP2
 http://noscdn1.connectedviews.com:1935/live/smil:rtp2.smil/inspirationlinks.m3u8
 #EXTINF:0,SIC
 http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8
