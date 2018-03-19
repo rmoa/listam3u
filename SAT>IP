@@ -1,0 +1,166 @@
+#EXTM3U
+#EXTINF:0,1. Das Erste HD
+satip://192.168.0.122/?src=1&freq=11494&pol=h&msys=dvbs2&sr=22000&pids=0,17,18,5100,5101,5102,5104
+#EXTINF:0,3. RTL Television
+satip://192.168.0.122/?src=1&freq=12188&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,163,104,44,105
+#EXTINF:0,4. Sat.1
+satip://192.168.0.122/?src=1&freq=12545&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,255,256,96,32
+#EXTINF:0,5. RTL 2
+satip://192.168.0.122/?src=1&freq=12188&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,166,128,46,68
+#EXTINF:0,6. Pro Sieben
+satip://192.168.0.122/?src=1&freq=12545&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,97,511,512,33
+#EXTINF:0,7. Vox
+satip://192.168.0.122/?src=1&freq=12188&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,167,136,47,71
+#EXTINF:0,8. Kabel Eins
+satip://192.168.0.122/?src=1&freq=12545&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,767,768,98,34
+#EXTINF:0,202. N24
+satip://192.168.0.122/?src=1&freq=12545&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,99,1023,1024
+#EXTINF:0,63. ServusTV
+satip://192.168.0.122/?src=1&freq=11303&pol=h&msys=dvbs2&sr=22000&pids=0,17,18,3583,3584,109,3588
+#EXTINF:0,20. Phoenix
+satip://192.168.0.122/?src=1&freq=11583&pol=h&msys=dvbs2&sr=22000&pids=0,17,18,5260,5261,5262
+,1401,1402
+#EXTINF:0,201. n-tv
+satip://192.168.0.122/?src=1&freq=12187&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,48,169,73
+#EXTINF:0,2. ZDF HD
+satip://192.168.0.122/?src=1&freq=11362&pol=h&msys=dvbs2&sr=22000&pids=0,17,18,6100,6110,6120,6130
+#EXTINF:0,25. ZDF neo HD
+satip://192.168.0.122/?src=1&freq=11362&pol=h&msys=dvbs2&sr=22000&pids=0,17,18,6300,6310,6320,6330
+#EXTINF:0,26. zdf.kultur HD
+satip://192.168.0.122/?src=1&freq=11362&pol=h&msys=dvbs2&sr=22000&pids=0,17,18,6400,6410,6420,6430
+#EXTINF:0,27. ZDF info HD
+#EXTINF:0,18. arte HD
+satip://192.168.0.122/?src=1&freq=11494&pol=h&msys=dvbs2&sr=22000&pids=0,17,18,5110,5111,5112
+#EXTINF:0,19. 3sat HD
+satip://192.168.0.122/?src=1&freq=11347&pol=v&msys=dvbs2&sr=22000&pids=0,17,18,6500,6510,6520,6530
+#EXTINF:0,22. Eins Plus HD
+satip://192.168.0.122/?src=1&freq=11053&pol=h&msys=dvbs2&mtype=8psk&plts=off&sr=22000&pids=0,17,18,5420,5421,5422
+#EXTINF:0,23. Eins Festival HD
+satip://192.168.0.122/?src=1&freq=11053&pol=h&msys=dvbs2&mtype=8psk&plts=off&sr=22000&pids=0,17,18,5410,5411,5412
+#EXTINF:0,24. Tagesschau 24 HD
+satip://192.168.0.122/?src=1&freq=11053&pol=h&msys=dvbs2&mtype=8psk&plts=off&sr=22000&pids=0,17,18,5400,5401,5402
+satip://192.168.0.122/?src=1&freq=11347&pol=v&msys=dvbs2&sr=22000&pids=0,17,18,6700,6710,6720,6730
+#EXTINF:0,28. RTL Nitro
+satip://192.168.0.122/?src=1&freq=12188&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,173,146,53,84
+#EXTINF:0,29. Sat 1 Gold
+satip://192.168.0.122/?src=1&freq=12545&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,1279,1280,100,36
+#EXTINF:0,30. Pro7 MAXX
+satip://192.168.0.122/?src=1&freq=12545&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,101,1535,1536
+#EXTINF:0,31. Tele 5
+satip://192.168.0.122/?src=1&freq=12480&pol=v&msys=dvbs&sr=27500&fec=34&pids=0,17,18,99,1535,1536
+#EXTINF:0,32. ANIXE HD
+satip://192.168.0.122/?src=1&freq=10774&pol=h&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,255,259,96
+#EXTINF:0,33. DMAX
+satip://192.168.0.122/?src=1&freq=12480&pol=v&msys=dvbs&sr=27500&fec=34&pids=0,17,18,3327,3328,108,44
+#EXTINF:0,34. Sixx
+satip://192.168.0.122/?src=1&freq=12461&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,767,768,99,35
+#EXTINF:0,35. Comedy Central
+satip://192.168.0.122/?src=1&freq=11973&pol=v&msys=dvbs&sr=27500&fec=34&pids=0,17,18,416,4061,4062,8190
+#EXTINF:0,60. ORF1
+satip://192.168.0.122/?src=1&freq=11303&pol=h&msys=dvbs2&mtype=8psk&plts=off&sr=22000&pids=0,17,18,107,1920,1921
+#EXTINF:0,61. ORF2 Europe
+satip://192.168.0.122/?src=1&freq=12693&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,1004,170,171
+#EXTINF:0,62. Schau TV
+satip://192.168.0.122/?src=1&freq=11244&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,225,2250,2251
+#EXTINF:0,80. RTL Schweiz
+satip://192.168.0.122/?src=1&freq=12226&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,610,611,612,613,614
+#EXTINF:0,81. Sat 1 Schweiz
+satip://192.168.0.122/?src=1&freq=12051&pol=v&msys=dvbs&sr=27500&fec=34&pids=0,17,18,101,1535,1536
+#EXTINF:0,82. RTL2 Schweiz
+satip://192.168.0.122/?src=1&freq=11391&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,96,255,256
+#EXTINF:0,83. ProSieben Schweiz
+satip://192.168.0.122/?src=1&freq=12051&pol=v&msys=dvbs&sr=27500&fec=34&pids=0,17,18,32,289,290
+#EXTINF:0,84. VOX Schweiz
+satip://192.168.0.122/?src=1&freq=12226&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,600,601,602,603
+#EXTINF:0,85. Kabel 1 Schweiz
+satip://192.168.0.122/?src=1&freq=12051&pol=v&msys=dvbs&sr=27500&fec=34&pids=0,17,18,1026,162,163
+#EXTINF:0,86. SuperRTL Schweiz
+satip://192.168.0.122/?src=1&freq=12187&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,52,172,145
+#EXTINF:0,200. Tagesschau24 HD
+satip://192.168.0.122/?src=1&freq=11053&pol=h&msys=dvbs2&mtype=8psk&plts=off&sr=22000&pids=0,17,18,5400,5401,5402
+#EXTINF:0,201. n-tv
+satip://192.168.0.122/?src=1&freq=12187&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,48,169,73
+#EXTINF:0,202. N24
+satip://192.168.0.122/?src=1&freq=12545&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,99,1023,1024
+#EXTINF:0,203. DW-TV
+satip://192.168.0.122/?src=1&freq=11626&pol=v&msys=dvbs&sr=22000&fec=56&pids=0,17,18,273,529,785
+#EXTINF:0,204. Euronews D
+satip://192.168.0.122/?src=1&freq=12226&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,260,2432,2433,2434,2435,2436
+#EXTINF:0,220. BBC World News
+satip://192.168.0.122/?src=1&freq=11229&pol=v&msys=dvbs2&mtype=8psk&plts=off&sr=22000&pids=0,17,18,212,2091,2092
+#EXTINF:0,221. CNN
+satip://192.168.0.122/?src=1&freq=11626&pol=v&msys=dvbs&sr=22000&fec=56&pids=0,17,18,3946,165,100
+#EXTINF:0,222. Sky News International
+satip://192.168.0.122/?src=1&freq=12604&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,7290,1290,2290
+#EXTINF:0,223. Bloomberg
+satip://192.168.0.122/?src=1&freq=11597&pol=v&msys=dvbs&sr=22000&fec=56&pids=0,17,18,1360,1320,1090,37
+#EXTINF:0,224. CNBC Europe
+satip://192.168.0.122/?src=1&freq=11597&pol=v&msys=dvbs&sr=22000&fec=56&pids=0,17,18,1838,307,308
+#EXTINF:0,230. KIKA HD
+satip://192.168.0.122/?src=1&freq=11347&pol=v&msys=dvbs2&sr=22000&pids=0,17,18,6600,6610,6620,6630
+#EXTINF:0,231. SuperRTL
+satip://192.168.0.122/?src=1&freq=12188&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,165,120,45,65
+#EXTINF:0,232. Nickelodeon HD
+satip://192.168.0.122/?src=1&freq=11973&pol=v&msys=dvbs&sr=27500&fec=34&pids=0,17,18,420,4101,4102,8190
+#EXTINF:0,233. Disney Channel
+satip://192.168.0.122/?src=1&freq=12460&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,115,2047,2048
+#EXTINF:0,250. EUROSPORT Deutschland
+satip://192.168.0.122/?src=1&freq=12227&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,101,103,280,102
+#EXTINF:0,251. SPORT1 HD
+satip://192.168.0.122/?src=1&freq=12480&pol=v&msys=dvbs&sr=27500&fec=34&pids=0,17,18,1023,1024,103,39
+#EXTINF:0,270. VIVA
+satip://192.168.0.122/?src=1&freq=11973&pol=v&msys=dvbs&sr=27500&fec=34&pids=0,17,18,416,4061,4062,8190
+#EXTINF:0,271. Deluxe Music
+satip://192.168.0.122/?src=1&freq=12148&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,99,3327,3328
+#EXTINF:0,274. Volksmusik TV
+satip://192.168.0.122/?src=1&freq=11244&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,222,2220,2221
+#EXTINF:0,275. Melodie Express
+satip://192.168.0.122/?src=1&freq=11244&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,229,2290,2291
+#EXTINF:0,276. Deutsches Musik Fernsehen
+satip://192.168.0.122/?src=1&freq=12633&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,105,53,54
+#EXTINF:0,277. Hitradio OE3
+satip://192.168.0.122/?src=1&freq=12693&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,130,131,1003
+#EXTINF:0,450. Bibel TV
+satip://192.168.0.122/?src=1&freq=11244&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,224,2240,2241
+#EXTINF:0,451. K-TV Fernsehen
+satip://192.168.0.122/?src=1&freq=12633&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,102,202,302
+#EXTINF:0,452. DIE NEUE ZEIT TV
+satip://192.168.0.122/?src=1&freq=11421&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,109,3583,3584
+#EXTINF:0,453. Hope Channel TV
+satip://192.168.0.122/?src=1&freq=12148&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,105,511,512
+#EXTINF:0,454. EWTN Europe
+satip://192.168.0.122/?src=1&freq=12460&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,100,1023,1024
+#EXTINF:0,460. Astro TV
+satip://192.168.0.122/?src=1&freq=12480&pol=v&msys=dvbs&sr=27500&fec=34&pids=0,17,18,98,2559,2560
+#EXTINF:0,461. Dr Dish
+satip://192.168.0.122/?src=1&freq=12574&pol=h&msys=dvbs2&mtype=8psk&plts=off&sr=22000&pids=0,17,18,107,3071,3072
+#EXTINF:0,500. 1-2-3.tv HD
+satip://192.168.0.122/?src=1&freq=10803&pol=h&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,98,767,771,34
+#EXTINF:0,501. HSE24 HD
+satip://192.168.0.122/?src=1&freq=10774&pol=h&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,1279,1283,100,36
+#EXTINF:0,502. HSE24 Extra HD
+satip://192.168.0.122/?src=1&freq=10803&pol=h&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,97,511,515,
+#EXTINF:0,503. HSE24 Trend
+satip://192.168.0.122/?src=1&freq=12480&pol=v&msys=dvbs&sr=27500&fec=34&pids=0,17,18,110,3071,3072
+#EXTINF:0,504. QVC HD
+satip://192.168.0.122/?src=1&freq=10774&pol=h&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,1023,1027,99,35
+#EXTINF:0,505. QVC Plus HD
+satip://192.168.0.122/?src=1&freq=10803&pol=h&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,1279,1283,100,36
+#EXTINF:0,506. QVC Beauty and Style
+satip://192.168.0.122/?src=1&freq=12460&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,102,1791,1792
+#EXTINF:0,507. SonnenklarTV HD
+satip://192.168.0.122/?src=1&freq=12574&pol=h&msys=dvbs2&mtype=8psk&plts=off&sr=22000&pids=0,17,18,96,255,259
+#EXTINF:0,508. Pearl.tv HD
+satip://192.168.0.122/?src=1&freq=12574&pol=h&msys=dvbs2&mtype=8psk&plts=off&sr=22000&pids=0,17,18,100,1279,1280
+#EXTINF:0,509. Juwelo HD
+satip://192.168.0.122/?src=1&freq=12574&pol=h&msys=dvbs2&sr=22000&pids=0,17,18,1023,1024,99
+#EXTINF:0,646. a.tv
+satip://192.168.0.122/?src=1&freq=11523&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,96,255,256
+#EXTINF:0,700. NHK World
+satip://192.168.0.122/?src=1&freq=11508&pol=v&msys=dvbs&sr=22000&fec=56&pids=0,17,18,764,714,734
+#EXTINF:0,701. CCTV News
+satip://192.168.0.122/?src=1&freq=11538&pol=v&msys=dvbs&sr=22000&fec=56&pids=0,17,18,664,614,634
+#EXTINF:0,740. TVE International
+satip://192.168.0.122/?src=1&freq=11626&pol=v&msys=dvbs&sr=22000&fec=56&pids=0,17,18,3520,3521,3522
+#EXTINF:0,741. Canal 24 Horas
+satip://192.168.0.122/?src=1&freq=11626&pol=v&msys=dvbs&sr=22000&fec=56&pids=0,17,18,3568,3569,3570
