@@ -1,35 +1,37 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="n24" tvg-logo="n24.png" group-title="DE",N24
+#EXTINF:-1, Welt
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-logo="ntv.png" group-title="DE",n-tv
+#EXTINF:-1,n-tv
 http://p.live.akamai.n-tv.de/playlists/ntvlive-ipadakamai.m3u8
 #EXTINF:-1,SERVUS TV
-http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
+https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
 #EXTINF:-1,Phoenix
-http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1,Euronews
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
 #EXTINF:-1,One HD
 http://wdr_einsfestival-lh.akamaihd.net/i/wdr_einsfestival@328300/master.m3u8
+#EXTINF:-1,ARD ONE
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
 #EXTINF:-1,RTL II You HD
 http://rtl2ingest1-i.akamaihd.net/hls/live/225448/cbcyoumain/cbcyoumainstream1_.m3u8
 #EXTINF:-1,Disney Channel
 https://delivestream-lh.akamaihd.net/i/live_1@320996/master.m3u8
 #EXTINF:-1,ZDF HD
-http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1,ZDF info
-http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 #EXTINF:-1,ZDF neo
-http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1,Das Erste
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1,3sat
 http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
 #EXTINF:-1,KiKa
 http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8
 #EXTINF:-1,arte
-http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
 #EXTINF:-1,ARD-Alpha
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1,Deutsche Welle
