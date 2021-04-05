@@ -26,33 +26,13 @@ http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 #EXTINF:-1 group-title=”EUROPE”,QVC 
 http://ios-stream.qvc.de/qvc.m3u
-
 #EXTINF:-1,Delux Music
 https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
 #EXTINF:-1,MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8
 #EXTINF:-1,Nickelodeon
 https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
-#EXTINF:-1,N-TV
-mms://217.118.170.203/ntvlive
-#EXTINF:-1, Ric TV
-https://58b42f6c8c9bf.streamlock.net:8080/live/rictv/playlist.m3u8
-#EXTINF:-1, ARD-Alpha
-https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
-#EXTINF:-1,tagesschau24 National
+#EXTINF:-1,tagesschau24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_3@66339/master.m3u8
-#EXTINF:-1,tagesschau24 International
+#EXTINF:-1,tagesschau24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1,Kika
-https://kikageohls-i.akamaihd.net/hls/live/1006268/livetvkika_de/master.m3u8
-#EXTINF:-1,TecTime
-http://tectime.iptv-playoutcenter.de:1935/tectime/tectime.stream/playlist.m3u8
-#EXTINF:-1,ORF 1
-https://orf1.mdn.ors.at/out/u/orf1/q8c/manifest.m3u
-#EXTINF:-1,ORF 2
-https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
-#EXTINF:-1,ORF III
-https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
-#EXTINF:-1,ORF Sport
-https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
-
